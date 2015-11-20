@@ -1,6 +1,6 @@
 main:
-    - { url: '/my-site', text: 'Blog' }
-    - { url: '/about', text: 'About' }
-    - { url: '/contact', text: 'Contact' }
-    - { url: 'https://scotch.io/tutorials/getting-started-with-jekyll-plus-a-free-bootstrap-3-starter-theme', text: 'Read the Tutorial' }
-    - { url: 'https://github.com/scotch-io', text: 'Fork on GitHub' }
+    - { url: 'http://www.lennyreed.com', text: 'Home' }
+    - { url: 'http://www.lennyreed.com/#About', text: 'About' }
+    - { url: 'http://www.lennyreed.com/#CareerHighlights', text: 'Career Highlights' }
+    - { url: 'http://www.lennyreed.com/blog', text: 'BLog' }
+    - { url: 'http://www.lennyreed.com/#Contact', text: 'Contact' }
