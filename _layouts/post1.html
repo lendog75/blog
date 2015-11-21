@@ -1,0 +1,26 @@
+<br><br><br>
+cc
+{% include header.html %}
+ddd
+<br><br>
+<ol class="breadcrumb">
+    <li><a href="http://www.lennyreed.com">Home</a></li>
+    <li><a href="http://www.lennyreed.com/blog">Blog</a></li>
+    <li class="active">{{ post.title }}</li>
+</ol>
+{% include title-group.html %}
+ff
+
+<article>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-10 col-md-offset-1">
+
+
+                {{ content }}
+            </div>
+        </div>
+    </div>
+</article>
+
+{% include footer.html %}

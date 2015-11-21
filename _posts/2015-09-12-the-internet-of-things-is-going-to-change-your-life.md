@@ -1,5 +1,5 @@
 ---
-layout: inner
+layout: post1
 title: 'The Internet of Things: Its going to change your life'
 date: 2015-09-12
 categories: IoT
