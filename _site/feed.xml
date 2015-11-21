@@ -5,8 +5,8 @@
     <description>test</description>
     <link>http://www.lennyreed.com/blog/</link>
     <atom:link href="http://www.lennyreed.com/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 20 Nov 2015 16:38:47 -0700</pubDate>
-    <lastBuildDate>Fri, 20 Nov 2015 16:38:47 -0700</lastBuildDate>
+    <pubDate>Fri, 20 Nov 2015 17:04:28 -0700</pubDate>
+    <lastBuildDate>Fri, 20 Nov 2015 17:04:28 -0700</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -25,6 +25,27 @@
         <category>testing</category>
         
         <category>test123</category>
+        
+        
+        <category>blog</category>
+        
+        <category>development</category>
+        
+      </item>
+    
+      <item>
+        <title>The Internet of Things: Its going to change your life, if it hasnt already </title>
+        <description>&lt;p&gt;Content Pending&lt;/p&gt;
+</description>
+        <pubDate>Mon, 31 Aug 2015 07:26:34 -0600</pubDate>
+        <link>http://www.lennyreed.com/blog/the-internet-of-things-is-going-to-change-your-life.html</link>
+        <guid isPermaLink="true">http://www.lennyreed.com/blog/the-internet-of-things-is-going-to-change-your-life.html</guid>
+        
+        <category>cats</category>
+        
+        <category>dogs</category>
+        
+        <category>code</category>
         
         
         <category>blog</category>
@@ -106,6 +127,29 @@
         <category>blog</category>
         
         <category>development</category>
+        
+      </item>
+    
+      <item>
+        <title>Why I Like Webstorm better than Visual Studio (Sometimes)</title>
+        <description>&lt;p&gt;Content Pending&lt;/p&gt;
+</description>
+        <pubDate>Wed, 05 Nov 2014 06:26:34 -0700</pubDate>
+        <link>http://www.lennyreed.com/blog/why-i-like-webstorm-over-visual-studio.html</link>
+        <guid isPermaLink="true">http://www.lennyreed.com/blog/why-i-like-webstorm-over-visual-studio.html</guid>
+        
+        <category>code</category>
+        
+        <category>ide</category>
+        
+        <category>web</category>
+        
+        
+        <category>blog</category>
+        
+        <category>development</category>
+        
+        <category>web</category>
         
       </item>
     
