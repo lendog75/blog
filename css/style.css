@@ -22,7 +22,7 @@ body { font-size: 18px; line-height: 30px; padding-top: 51px; -webkit-font-smoot
 
 
 .title-group { padding: 0 15px; margin: 50px; }
-.title-group p { max-width: 800px; margin: 25px auto 0; }
+.title-group p { margin: 25px auto 0; }
 
 h1.special { position: relative; text-align: center; overflow: hidden; margin: 0; text-transform: uppercase; font-size: 69px; line-height: 69px; font-weight: 700; color: #ff4545; }
 h1.special span { display: inline-block; position: relative; padding: 0 15px; max-width: 1000px; }
