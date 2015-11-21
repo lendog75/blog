@@ -4,27 +4,13 @@
  <title>Lenny REED</title>
  <link href="http://www.lennyreed.com/blog/atom.xml" rel="self"/>
  <link href="http://www.lennyreed.com/blog/"/>
- <updated>2015-11-20T17:04:28-07:00</updated>
+ <updated>2015-11-20T17:13:05-07:00</updated>
  <id>http://www.lennyreed.com/blog</id>
  <author>
    <name>Nicholas Cerminara</name>
    <email>nick@scotch.io</email>
  </author>
 
- 
- <entry>
-   <title>test of Jekyll</title>
-   <link href="http://www.lennyreed.com/blog/this-is-a-test.html"/>
-   <updated>2015-11-20T06:26:34-07:00</updated>
-   <id>http://www.lennyreed.com/blog/this-is-a-test</id>
-   <content type="html">&lt;p&gt;This is a test.  Steve Austin: Astronaut. A man barely alive. Gentlemen… we can rebuild him. We have the technology. We have the capability to make the world’s first bionic man. Steve Austin will be that man. Better than he was before. Better. Stronger. Faster.&lt;/p&gt;
-
-&lt;p&gt;My name is Rhoda Morgenstern. I was born in the Bronx, New York in December of 1941. I’ve always felt responsible for World War II. The first thing I remember liking that liked me back was food. I had a bad puberty; it lasted seventeen years. I’m a high school graduate. I went to art school. My entrance exam was on a book of matches. I decided to move out of the house when I was twenty-four. My mother still refers to this as the time I ran away from home. Eventually, I ran to Minneapolis, where it’s cold and I figured I’d keep better. Now I’m back in Manhattan. New York, this is your last chance!&lt;/p&gt;
-
-&lt;p&gt;Dr. David Banner: physician; scientist. Searching for a way to tap into the hidden strengths that all humans have… then an accidental overdose of gamma radiation alters his body chemistry. And now when David Banner grows angry or outraged, a startling metamorphosis occurs. The creature is driven by rage and pursued by an investigative reporter. The creature is wanted for a murder he didn’t commit. David Banner is believed to be dead, and he must let the world think that he is dead, until he can find a way to control the raging spirit that dwells within him.&lt;/p&gt;
-
-</content>
- </entry>
  
  <entry>
    <title>The Internet of Things: Its going to change your life, if it hasnt already </title>
@@ -36,9 +22,32 @@
  </entry>
  
  <entry>
+   <title>Why I Like Webstorm better than Visual Studio (Sometimes)</title>
+   <link href="http://www.lennyreed.com/blog/why-i-like-webstorm-over-visual-studio.html"/>
+   <updated>2014-11-05T06:26:34-07:00</updated>
+   <id>http://www.lennyreed.com/blog/why-i-like-webstorm-over-visual-studio</id>
+   <content type="html">&lt;p&gt;Content Pending&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>test of Jekyll</title>
+   <link href="http://www.lennyreed.com/blog/this-is-a-test.html"/>
+   <updated>2013-11-20T06:26:34-07:00</updated>
+   <id>http://www.lennyreed.com/blog/this-is-a-test</id>
+   <content type="html">&lt;p&gt;This is a test.  Steve Austin: Astronaut. A man barely alive. Gentlemen… we can rebuild him. We have the technology. We have the capability to make the world’s first bionic man. Steve Austin will be that man. Better than he was before. Better. Stronger. Faster.&lt;/p&gt;
+
+&lt;p&gt;My name is Rhoda Morgenstern. I was born in the Bronx, New York in December of 1941. I’ve always felt responsible for World War II. The first thing I remember liking that liked me back was food. I had a bad puberty; it lasted seventeen years. I’m a high school graduate. I went to art school. My entrance exam was on a book of matches. I decided to move out of the house when I was twenty-four. My mother still refers to this as the time I ran away from home. Eventually, I ran to Minneapolis, where it’s cold and I figured I’d keep better. Now I’m back in Manhattan. New York, this is your last chance!&lt;/p&gt;
+
+&lt;p&gt;Dr. David Banner: physician; scientist. Searching for a way to tap into the hidden strengths that all humans have… then an accidental overdose of gamma radiation alters his body chemistry. And now when David Banner grows angry or outraged, a startling metamorphosis occurs. The creature is driven by rage and pursued by an investigative reporter. The creature is wanted for a murder he didn’t commit. David Banner is believed to be dead, and he must let the world think that he is dead, until he can find a way to control the raging spirit that dwells within him.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
    <title>My First Video Post on Jekyll</title>
    <link href="http://www.lennyreed.com/blog/my-first-video-post.html"/>
-   <updated>2015-08-31T07:26:34-06:00</updated>
+   <updated>2013-08-31T07:26:34-06:00</updated>
    <id>http://www.lennyreed.com/blog/my-first-video-post</id>
    <content type="html">&lt;p&gt;Steve Austin: Astronaut. A man barely alive. Gentlemen… we can rebuild him. We have the technology. We have the capability to make the world’s first bionic man. Steve Austin will be that man. Better than he was before. Better. Stronger. Faster.&lt;/p&gt;
 
@@ -52,7 +61,7 @@
  <entry>
    <title>My First Post on Jekyll</title>
    <link href="http://www.lennyreed.com/blog/example-post.html"/>
-   <updated>2015-08-31T07:26:34-06:00</updated>
+   <updated>2013-08-31T07:26:34-06:00</updated>
    <id>http://www.lennyreed.com/blog/example-post</id>
    <content type="html">&lt;p&gt;Steve Austin: Astronaut. A man barely alive. Gentlemen… we can rebuild him. We have the technology. We have the capability to make the world’s first bionic man. Steve Austin will be that man. Better than he was before. Better. Stronger. Faster.&lt;/p&gt;
 
@@ -66,7 +75,7 @@
  <entry>
    <title>My First Normal Post on Jekyll</title>
    <link href="http://www.lennyreed.com/blog/my-first-normal-post.html"/>
-   <updated>2015-08-15T07:26:34-06:00</updated>
+   <updated>2013-08-15T07:26:34-06:00</updated>
    <id>http://www.lennyreed.com/blog/my-first-normal-post</id>
    <content type="html">&lt;p&gt;Steve Austin: Astronaut. A man barely alive. Gentlemen… we can rebuild him. We have the technology. We have the capability to make the world’s first bionic man. Steve Austin will be that man. Better than he was before. Better. Stronger. Faster.&lt;/p&gt;
 
@@ -74,15 +83,6 @@
 
 &lt;p&gt;Dr. David Banner: physician; scientist. Searching for a way to tap into the hidden strengths that all humans have… then an accidental overdose of gamma radiation alters his body chemistry. And now when David Banner grows angry or outraged, a startling metamorphosis occurs. The creature is driven by rage and pursued by an investigative reporter. The creature is wanted for a murder he didn’t commit. David Banner is believed to be dead, and he must let the world think that he is dead, until he can find a way to control the raging spirit that dwells within him.&lt;/p&gt;
 
-</content>
- </entry>
- 
- <entry>
-   <title>Why I Like Webstorm better than Visual Studio (Sometimes)</title>
-   <link href="http://www.lennyreed.com/blog/why-i-like-webstorm-over-visual-studio.html"/>
-   <updated>2014-11-05T06:26:34-07:00</updated>
-   <id>http://www.lennyreed.com/blog/why-i-like-webstorm-over-visual-studio</id>
-   <content type="html">&lt;p&gt;Content Pending&lt;/p&gt;
 </content>
  </entry>
  
