@@ -11,7 +11,36 @@
 {% endif %}
 
 <div class="title-group">
-    <h1 class="special">
+    {% if page.id %}
+    <aside>
+        by: {{ page.by }}
+        /
+        {% if page.categories != empty %}
+        {% for category in page.categories %}
+        <span>{{ category }}</span>
+        {% endfor %}
+        {% endif %}
+        /
+        {{ page.date | date: "%B %-d, %Y" }}
+
+    </aside>
+    {% endif %}
+
+    <!--{% if page.id %}-->
+    <!--<aside>-->
+        <!--{{ page.date | date: "%m.%d.%y" }}-->
+        <!--{% if page.categories != empty %}-->
+        <!--&middot;-->
+        <!--{% for category in page.categories %}-->
+        <!--<span>{{ category }}</span>-->
+        <!--{% endfor %}-->
+        <!--{% endif %}-->
+    <!--</aside>-->
+    <!--{% endif %}-->
+
+
+
+    <h1 >
         <span>
         {% if page.title %}
             {{ page.title }}
@@ -20,17 +49,7 @@
         {% endif %}
         </span>
     </h1>
-    {% if page.id %}
-    <aside>
-        {{ page.date | date: "%m.%d.%y" }}
-        {% if page.categories != empty %}
-            &middot;
-            {% for category in page.categories %}
-                <span>{{ category }}</span>
-            {% endfor %}
-        {% endif %}
-    </aside>
-    {% endif %}
+
     <p class="lead">
         {% if page.lead_text %}
             {{ page.lead_text }}

@@ -3,6 +3,7 @@ layout: post1
 title: 'The Internet of Things: Its going to change your life'
 date: 2015-09-12
 categories: IoT
+by: Lenny Reed
 tags: IoT Technology
 featured_image: 'images/IMG_7417.jpg'
 lead_text: 'In recent years a lot of talk has been about the Internet of Things.  At first it was just a concept, then a buzzword.  So, what is it?'
