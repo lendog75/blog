@@ -8,4 +8,23 @@ featured_image: 'http://placekitten.com/1500/1000'
 lead_text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita maiores quisquam id sunt, a architecto molestias velit, distinctio quidem non, nostrum provident quibusdam enim. Neque ipsam temporibus commodi facere minima.'
 ---
 
-Content Pending
+In recent years a lot of talk has been about the Internet of Things.  At first it was just a concept, then a buzzword.  So, what is it?
+
+ Before we dive in too deep, I'd like everyone who has a Fitbit. Ok anyone who is wearing a fitness tracker of any sort of fitness tracker to raise their hands.  Go ahead.  Guess what?  Everyone who raised their hands is already a participant in the Internet of Things.  More on that later.
+
+ The Internet of Things (IoT) is worldwide network of, well, things.  Ambiguous I know, but that is the point.  The closest Webster entry defines a thing as "a material or substance of a specified kind."  For the sake of this post, let's define a thing as a person, machine, cloud service or anything else capable of communication or integration within the other things over the internet.  Still a bit ambiguous, perhaps that is why some refer to the IoT as the Internet of Everything.
+
+ Ok great, so now that we have a working definition, is the IoT a reality or is it still just a concept? Well, I am here to tell you that not only is it a reality, but chances are, you or at least your things, are a part of it.
+
+ The Internet of Things is cutting edge no doubt, however, it did not just spring up out of nowhere.  It is the union of the last 30 years of technology.  Combining the advancements brought to us by the world wide web, E-Commerce, Social Media, Smart Phones, and cloud computing was just the next logical step.  That is not to say there wasn't any innovation.
+
+ In my opinion, there are two major advances.  The first is that it allows the machines to be much more autonomous.  This is huge, in today's fast paced world allowing the machines a higher degree of autonomy only seemed logical.  Since the cost of computing power, storage, and networking has become so cheap, it is now an achievable goal.  The second advance is our ability to quickly integrate all this cheap computing power together.  Many of the today's products have added some sort of Api or implement standards allowing an object that has a limited scope of use to be tied together.  The fact that these products are implementing a standard instead of using some sort of proprietary tech gives consumers the ability to make what is called a mashup. The product of these mashups is an emergence of new ideas and features that the original items individually just couldn't provide.
+
+ Consider this, years ago I had a home theater system, I wanted everything to integrate as much as possible.  To accomplish this I had to pick a large company offering all the products I would need. For that I was able to assemble a system that used one remote and allowed the TV, Receiver, and other parts work together, providing a better experience for myself and my family.  Though in the end it worked, it limited my choices in components meaning I had to forego features offered by other manufactures that couldn't participate in the proprietary linking system.  In addition to not having all the features I was looking for, this also made the costs extremely high because I was very limited in my selection of components.
+
+ Recently I bought a new Samsung TV, an Xbox One, a sound bar with sub-woofer, and I already have DIRECTV.  With all of these "things", I wanted integration.  This time I was happy to learn that all I needed to do was connect them all together using a HDMI cable and it would just happen.  The Xbox was able to directly control all the other components, even the sound bar that connects to the TV.  As a consumer, how that happened was not important to me.  But the companies developing each product had to make integration and standardization a priority.  They implemented numerous standards, providing integration with outside systems.  The end result?  My Xbox can not only turn my TV off, it can change
+
+ channels on the satellite receiver or TV if I didn't use satellite.  It can control the volume on the sound bar and turn the whole system on/off.  It can do it all of this using voice commands!
+ 
+ 
+
