@@ -3,7 +3,7 @@
             {% if post.featured_image or post.featured_video_id %}
             <a href="{{ post.url | prepend: site.baseurl }}" class="featurette">
                 {% if post.featured_image %}
-                <img class="img"src="{{ post.featured_image }}" width="100%"></img>
+                <img class="img" src="{{ post.featured_image }}" width="100%"></img>
 
                 {% endif %}
 
@@ -14,7 +14,6 @@
             {% endif %}
         </div>
         <div class="col-md-8">
-
             <h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
             <aside>
                 {{ post.date | date: "%m.%d.%y" }}
@@ -34,7 +33,6 @@
                 {% endfor %}
             </div>
             {% endif %}
-
         </div>
 
 
