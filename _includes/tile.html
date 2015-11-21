@@ -14,6 +14,7 @@
             {% endif %}
         </div>
         <div class="col-md-8">
+            url1:  {{ post.url }}
             <h2><a href="blog/{{ post.url  }}">{{ post.title }}</a></h2>
             <aside>
                 {{ post.date | date: "%m.%d.%y" }}
